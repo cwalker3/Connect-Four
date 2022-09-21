@@ -1,2 +1,1 @@
-# Connect-Four
-Connect Four project using Ruby - part of The Odin Project's curriculum
+The goal of this project is to make a command line Connect Four game using Ruby. This is the first project that is built using TDD.
